@@ -11,10 +11,23 @@
    <div class="parent-cont">
        <div class="child-one">
            <nav></nav>
-           <section></section>
+           <section>
+               <h2>WELCOME</h2>
+               <h1>I am a<span class="type"></span></h1>
+               <h3>Based in Mumbai</h3>
+           </section>
            <button></button>
        </div>
    </div>
-   <script src='script.js'></script>
+   <script src='typed.js'></script>
+   <script>
+       var typed = new Typed('.type', {
+  strings: ['Web developer',
+   'Sports analyst'],
+   typeSpeed: 60,
+   backSpeed: 60,
+   loop: true,
+});
+   </script>
 </body>
 </html>
