@@ -1,0 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.child-one{
+    background-image: url(newfolder/image-2.jpg);
+}
