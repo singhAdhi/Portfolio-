@@ -71,3 +71,24 @@ section{
     position: relative;
     top: -6%;
 }
+button{
+    font-size: 26px;
+    border-radius: 50px;
+    padding: 10px 20px;
+    position: fixed;
+    top: 75%;
+    left: 43%;
+    font-family: cursive;
+    background-color: transparent;
+    color: mediumturquoise;
+    border-color: snow;
+    border: 2px solid snow;
+}
+.colored{
+    color: mediumturquoise;
+}
+.button:hover{
+    background-color: mediumturquoise;
+    color: white;
+    cursor: pointer;
+}
