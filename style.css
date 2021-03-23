@@ -7,8 +7,18 @@
 }
 @media(max-width: 600px){
     .child-one{
-        
+
     }
+    button{
+
+    }
+    nav ul{
+
+    }
+    li{
+
+    }
+    
 }
 .child-one{
     background-image: url(../image-13.jpg);
