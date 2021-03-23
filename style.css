@@ -7,18 +7,33 @@
 }
 @media(max-width: 600px){
     .child-one{
-
+        display: flex;
+        align-items: initial;
+        justify-content: center;
+        position: relative;
+    }
+    .logo{
+        position: absolute !important;
+    left: 40px !important;
     }
     button{
+        position: absolute!important;
+        left: 29% !important;
+    }
+    button:hover{
+        color: white !important;
+    background-color: mediumturquoise !important;
+}
+
 
     }
     nav ul{
-
+        display: none;
     }
     li{
 
     }
-    
+
 }
 .child-one{
     background-image: url(../image-13.jpg);
