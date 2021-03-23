@@ -1,0 +1,118 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: rgb(89, 184, 184);
+  font-family: cursive;
+  pointer-events: visible;
+}
+.container {
+  width: 50vw;
+  height: 95vh;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #232526; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.parent {
+  width: 90%;
+  height: 40vh;
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  border: 5px solid rgb(89, 184, 184);
+  align-items: center;
+  flex-direction: column;
+
+  background: #161618;
+  -webkit-box-shadow: 42px 42px 62px #0a0a0b, -42px -42px 62px #222225;
+  box-shadow: 42px 42px 62px #0a0a0b, -42px -42px 62px #222225;
+  background: #232526; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #414345,
+    #232526
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.containerAll {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row-reverse;
+  background-color: turquoise;}
+ 
+ .fas {
+    font-weight: normal;
+    font-size: 30px;
+    color: rgb(224, 224, 14);
+   
+}
+.main {
+  color: black;
+  font-size: 50px;
+  font-family: fantasy;
+  text-align: center;
+  margin-left: 40px;
+}
+.parent h1 {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.child {
+  font-size: 26px;
+}
+.wrap {
+  display: flex;
+  width: 90%;
+  height: 20vh;
+  margin-top: 10px;
+  justify-content: space-evenly;
+}
+.wrapOne {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  margin: 30px;
+  padding: 40px;
+  border-radius: 10px;
+  
+}
+.wrapOne:hover{
+  background: rgba( 255, 255, 255, 0.00 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 0.0px );
+-webkit-backdrop-filter: blur( 0.0px );
+border-radius: 10px;
+
+}
+.parent:hover{
+  background: rgba( 255, 255, 255, 0.00 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 0.0px );
+  -webkit-backdrop-filter: blur( 0.0px );
+  border-radius: 10px;
+}
