@@ -3,6 +3,12 @@
     padding:0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    
+}
+@media(max-width: 600px){
+    .child-one{
+        
+    }
 }
 .child-one{
     background-image: url(../image-13.jpg);
@@ -13,6 +19,10 @@
     width: 100%;
     height: 100vh;
     
+}
+section h2{
+    font-size: 36px;
+    font-weight: bolder;
 }
 
 nav{
@@ -51,7 +61,7 @@ nav{
     font: 900 35vmin/50vh cookie, cursive;
     position: absolute;
     right: 80px;
-    top: 40px;
+    top: 42px;
     color: snow;
 }
  li{
@@ -72,7 +82,18 @@ section{
     top: -20px;
     color: snow;
     position: relative;
-    top: -6%;
+    top: 11%;
+}
+section h3{
+    font-size: 26px;
+    font-weight: 200 !important;
+    line-height: 3.0;
+}
+span.type{
+    color: mediumturquoise;
+}
+span.typed-cursor{
+    color: mediumturquoise;
 }
 button{
     font-size: 26px;
@@ -84,8 +105,7 @@ button{
     font-family: cursive;
     background-color: transparent;
     color: mediumturquoise;
-    border-color: snow;
-    border: 2px solid snow;
+    border: 2px solid mediumturquoise;
 }
 .colored{
     color: mediumturquoise;
@@ -93,5 +113,5 @@ button{
 .button:hover{
     background-color: mediumturquoise;
     color: white;
-    cursor: pointer;
+   
 }
