@@ -119,12 +119,12 @@ header{
     min-height: 68vh;
 }
 .text-main p{
-	font-size: 1.75rem;
+	font-size: 2.5rem;
     padding: 5px 0;
     font-weight: 500;
 }
 .hero-para{
-	font-size: 1.3rem;
+	font-size: 2.3rem;
 	font-weight: 400;
 }
 .text-main h2{
@@ -136,4 +136,17 @@ span#type{
 }
 span.typed-cursor{
 	color: darkturquoise;
+}
+button{
+	color: darkturquoise;
+    padding: 17px 35px;
+    border-radius: 45px;
+    background: transparent;
+    border: 2px solid;
+    font-size: 20px;
+    margin-top: 50px;
+}
+button:hover{
+	color: snow;
+	background-color: darkturquoise;
 }
