@@ -99,3 +99,26 @@ header{
 .header-list li a{
 	text-decoration: none;
 }
+.hero-text{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    min-height: 68vh;
+}
+.text-main p{
+	font-size: 36px;
+    padding: 5px 0;
+    font-weight: 200;
+}
+.text-main h2{
+	font-size: 56px;
+}
+span#type{
+	color: darkturquoise;
+}
+span.typed-cursor{
+	color: darkturquoise;
+}
