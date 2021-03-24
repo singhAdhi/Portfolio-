@@ -150,3 +150,6 @@ button:hover{
 	color: snow;
 	background-color: darkturquoise;
 }
+.header-list li:nth-child(1){
+	color: darkturquoise;
+}
