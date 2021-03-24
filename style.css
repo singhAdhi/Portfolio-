@@ -119,12 +119,17 @@ header{
     min-height: 68vh;
 }
 .text-main p{
-	font-size: 36px;
+	font-size: 1.75rem;
     padding: 5px 0;
-    font-weight: 200;
+    font-weight: 500;
+}
+.hero-para{
+	font-size: 1.3rem;
+	font-weight: 400;
 }
 .text-main h2{
-	font-size: 56px;
+	font-size: 4rem;
+	font-weight: 600;
 }
 span#type{
 	color: darkturquoise;
