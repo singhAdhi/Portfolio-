@@ -23,7 +23,11 @@
           </nav>
         </header>
         <div class="hero-text">
-          <div class="text-main"></div>
+          <div class="text-main">
+            <p>Welcome</p>
+            <h2>I am <span class='type'></span></h2>
+            <p>based in Mumbai, India.</p>
+          </div>
           <button>HIRE ME</button>
         </div>
       </div>
@@ -149,6 +153,14 @@
         <div class="right"><a href="#">Terms & Policy </a></div>
       </div>
     </footer>
-    <script src="script.js"></script>
+    <script src="typed.js"></script>
+    <script>
+      var typed = new Typed('.type', {
+  strings: ['Web Developer', 'Sports Analyst'],
+  smartBackspace: true,
+  backSpeed: 60,
+  typeSpeed: 60,// Default value
+});
+    </script>
   </body>
 </html>

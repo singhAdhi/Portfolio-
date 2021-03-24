@@ -71,6 +71,7 @@ header{
     justify-content: space-around;
     align-items: center;
 	padding: 30px;
+	position: relative;
 }
 .logo{
 	color: snow;
@@ -86,6 +87,9 @@ header{
     justify-content: space-around;
     align-items: flex-end;
     margin: 0 20px;
+	position: absolute;
+    right: 30px;
+    top: 56px;
 }
 .header-list li{
 	padding: 10px;
