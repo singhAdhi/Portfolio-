@@ -164,6 +164,7 @@ button:hover{
     justify-content: center;
     align-items: center;
     position: relative;
+	padding: 30px;
 }
 h2.fade-text{
 	font-size: 8rem;
@@ -173,7 +174,7 @@ h2.fade-text{
 }
 p.main-head{
 	position: absolute;
-    top: 31%;
+    top: 37%;
     font-size: 2.25rem;
     border-bottom: 2px solid darkturquoise;
     opacity: 0.8;
@@ -192,4 +193,13 @@ p.main-head{
     font-size: 1rem;
 	padding-bottom: 40px;
     padding-right: 50px;
+}
+h2.left-head{
+	font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+p.first-para p.second-para{
+	font-size: 1.3rem;
+    line-height: 1.4;
 }
