@@ -182,7 +182,7 @@ p.main-head{
     line-height: 1.6;
 }
 .row{
-	isplay: flex;
+	display: flex;
     justify-content: space-around;
     align-items: center;
     margin-left: -15px;
