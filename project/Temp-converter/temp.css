@@ -1,0 +1,31 @@
+*{
+  padding:0;
+  margin:0;
+}
+body{
+    background-color:blanchedalmond
+}
+#celsius{
+    height: 33.3vh;
+    text-align: center;
+}
+#farhan{
+    height: 33.3vh;
+    text-align: center;
+}
+#kelvin{
+    height: 33.3vh;
+    text-align: center;
+}
+input[type=number]{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    font-size: 10em;
+    text-align: center;
+    
+}
+::-webkit-input-placeholder{
+    width: 100%;
+}

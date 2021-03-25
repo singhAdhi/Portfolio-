@@ -1,0 +1,69 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    background: #2c3e50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+h1{
+    color: whitesmoke;
+    position: absolute;
+    top: 6%;
+
+}
+.child{
+    
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    padding: 20px;
+   border-radius: 10px;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   
+  background: #20002c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #20002c, #cbb4d4); /* Chrome 10-25, Safari 5.1-6 */
+  background:  hsl(282, 43%, 85%); 
+
+}
+.child:hover{
+    box-shadow: 12px 12px 2px 1px rgba(230, 230, 238, 0.2);
+}
+#output{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    margin: 50px;
+    padding: 20px;
+    font-family: 'Satisfy', cursive;
+    
+}
+#btn{
+   width: fit-content;
+   text-align: center;
+   background-color: whitesmoke;
+   padding: 20px;
+   margin: 30px auto;
+   font-weight: 600;
+   line-height: 10px;
+   font-size: 20px;
+   border-radius: 5px;
+  color: #262626;
+   text-transform: uppercase;
+
+}
+#btn:hover{
+    background: linen;
+}
