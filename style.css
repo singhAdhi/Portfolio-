@@ -281,3 +281,24 @@ p.school,p.intro{
 	color: #dae1e2;
     font-size: 18px;
 }
+.resume_skill_row{
+	display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.skill{
+	padding: 30px;
+    margin: 50px;
+    color: darkturquoise;
+    background: rgba( 255, 255, 255, 0.10 );
+    backdrop-filter: blur( 3.0px );
+    border-radius: 10px;
+    font-size: 18px;
+    margin-left: -10px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+.skill:hover{
+	background-color: darkturquoise;
+	color: snow;
+}
