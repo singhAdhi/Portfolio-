@@ -212,7 +212,7 @@ h2.left-head{
     font-weight: 600;
     margin-bottom: 1rem;
 }
-p.first-para p.second-para{
+p.first-para,p.second-para{
 	font-size: 1.3rem;
 	line-height: 1.8;
     margin-top: 0;
