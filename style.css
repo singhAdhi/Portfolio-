@@ -176,6 +176,7 @@ p.main-head{
 	position: absolute;
     top: 38%;
     font-size: 2.25rem;
+	text-align: center;
     border-bottom: 2px solid darkturquoise;
     opacity: 0.9;
     font-weight: 600;
