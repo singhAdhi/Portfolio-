@@ -245,3 +245,16 @@ section.resume{
 	width: 90%;
     margin: 0 auto;
 }
+h2{
+	font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.resume_row{
+	display: flex;
+    justify-content: space-between;
+}
+.left_column{
+	width: 50%;
+    margin: 0 20px;
+}
