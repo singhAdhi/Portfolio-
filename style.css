@@ -109,6 +109,8 @@ body {
   line-height: 1.5;
   font-weight: 400;
   font-size: 1rem;
+  letter-spacing: 1.3px;
+  word-spacing: 0.7px;
 }
 ol,
 ul {
@@ -299,6 +301,7 @@ p.second-para {
   margin-top: 0;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.5);
+  
 }
 .about_container {
   background-color: #212529;
