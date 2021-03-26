@@ -191,7 +191,9 @@ span.about_border{
     border-width: 3px;
 }
 
-
+.name{
+	color: darkturquoise;
+}
 
 .row{
 	display: flex;
