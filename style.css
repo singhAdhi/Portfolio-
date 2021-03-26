@@ -225,6 +225,7 @@ p.first-para,p.second-para{
 .right-side{
 	font-size: 20px;
     margin-left: -110px;
+	margin-top: -50px;
 }
 .right-side ul li{
     margin-bottom: 0.5rem;
@@ -235,7 +236,7 @@ a.mailto{
 span.right-name,span.right-Email,span.right-Age,span.right-From,span.right-profile{
 	font-weight: 600;
     margin-right: 0.9rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: darkturquoise;
 }
 section.resume{
