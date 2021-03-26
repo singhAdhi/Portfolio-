@@ -264,3 +264,19 @@ h2{
 	border-radius: 10px;
 	border: 1px solid darkturquoise;
 }
+p.year{
+	padding: 5px;
+    border: 1px solid red;
+    width: fit-content;
+    background: red;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+h2.education{
+	color:darkturquoise;
+}
+
+p.school,p.intro{
+	color: #dae1e2;
+    font-size: 20px;
+}
