@@ -182,6 +182,17 @@ p.main-head{
     line-height: 1.6;
 	width: 27%;
 }
+span.about_border{
+	border-color: darkturquoise;
+    margin: 0 auto;
+    width: 80px;
+    display: block;
+    border-bottom: 1px solid darkturquoise;
+    border-width: 3px;
+}
+
+
+
 .row{
 	display: flex;
     justify-content: space-around;
