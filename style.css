@@ -309,7 +309,7 @@ p.second-para {
 .right-side {
   font-size: 20px;
   margin-left: -110px;
-  margin-top: -50px;
+  margin-top: -10%;
 }
 .right-side ul li {
   margin-bottom: 0.5rem;
