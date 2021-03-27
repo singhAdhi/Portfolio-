@@ -406,3 +406,41 @@ h2.resume_skill {
 section.projects{
      background-color: #212529;
 }
+.projects_container {
+  width: 90%;
+  margin: 0 auto;
+}
+.projects_row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.column-one,.column-two {
+  width: 50%;
+  margin: 50px;
+}
+.project-one {
+  border: 1px solid;
+  padding: 120px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.project-two {
+  border: 1px solid;
+  padding: 120px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.project-three {
+  border: 1px solid;
+  padding: 120px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+.project-four {
+  border: 1px solid;
+  padding: 120px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+
