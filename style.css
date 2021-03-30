@@ -135,7 +135,7 @@ table {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Lato', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: snow;
 }
 section.hero {
@@ -423,15 +423,14 @@ section.projects{
   margin-bottom: 50px;
   border-radius: 10px;
   position: relative;
-    width: 100%;
-    height: 50vh;
+  width: 100%;
 }
 img{
   width: 100%;
     height: 50vh;
     border-radius: 10px;
 }
-.overlay {
+.overlay{
   position: absolute;
     top: 0;
     left: 0;
@@ -444,7 +443,20 @@ img{
     justify-content: center;
     align-items: center;
 }
-.project-four,.project-one,.project-three,.project-two:hover .overlay{
+.project-four:hover .overlay{
   height: 100%;
-  opacity: 0.8;
+    opacity: 0.8;
 }
+.project-three:hover .overlay{
+  height: 100%;
+    opacity: 0.8;
+}
+.project-two:hover .overlay{
+  height: 100%;
+    opacity: 0.8;
+}
+.project-one:hover .overlay{
+  height: 100%;
+    opacity: 0.8;
+}
+
