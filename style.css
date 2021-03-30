@@ -442,6 +442,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
+    pointer-events: none;
 }
 .project-four:hover .overlay{
   height: 100%;
