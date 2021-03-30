@@ -236,6 +236,7 @@ button {
 button:hover {
   color: snow;
   background-color: darkturquoise;
+  border: darkturquoise;
 }
 .about-me {
   background-color: black;
