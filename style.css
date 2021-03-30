@@ -422,10 +422,27 @@ section.projects{
 .project-one,.project-two,.project-three,.project-four {
   margin-bottom: 50px;
   border-radius: 10px;
+  position: relative;
+    width: 100%;
+    height: 50vh;
 }
 img{
   width: 100%;
     height: 50vh;
     border-radius: 10px;
 }
-
+.overlay {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s;
+  opacity: 0.4;
+  display: none;
+}
+.project-four,.project-one,.project-three,.project-two:hover .overlay{
+  top: 0;
+  display: block;
+}
