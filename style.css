@@ -430,6 +430,7 @@ img{
     height: 50vh;
     border-radius: 10px;
     display: block;
+    -webkit-box-shadow: 9px 10px 14px -4px rgb(255 255 255 / 15%);
 }
 .overlay{
   position: absolute;
