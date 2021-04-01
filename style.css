@@ -443,7 +443,7 @@ projects_border{
     border-bottom: 1px solid darkturquoise;
     border-width: 3px;
     position: absolute;
-    top: 56%
+    top: 56%;
 }
 .overlay{
   position: absolute;
