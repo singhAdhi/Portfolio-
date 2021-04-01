@@ -476,6 +476,9 @@ img{
   height: 100%;
     opacity: 0.8;
 }
+.contact{
+  position: relative;
+}
 .wrapper {
   position: absolute;
   top: 50%;
