@@ -365,6 +365,7 @@ p.year {
   background: red;
   border-radius: 5px;
   margin-bottom: 10px;
+  opacity:0.8;
 }
 h2.education {
   color: darkturquoise;
