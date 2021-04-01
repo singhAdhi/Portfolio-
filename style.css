@@ -478,6 +478,7 @@ img{
 }
 .contact{
   position: relative;
+  background-color: black;
 }
 .wrapper {
   position: absolute;
