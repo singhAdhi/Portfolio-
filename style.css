@@ -491,6 +491,9 @@ img{
   
   
 }
+.one-color{
+  color: darkturquoise;
+}
 footer{
   background: black;
     /* display: flex; */
