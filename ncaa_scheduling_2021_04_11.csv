@@ -1,0 +1,317 @@
+id,date,kick_off,status,video,tagging,competitionName,home_team,away_team,home_team_main_conference,away_team_main_conference,customers,notes
+5194843,07/04/21,22:00:00,Cancelled,-,-,Big South,-2433 - Longwood Lancers,-2429 - Radford Highlanders,Big South,Big South,1,video:  others: 
+5201956,07/04/21,22:00:00,Played,2021-04-08 09:08:22,2021-04-08 19:31:55,Atlantic 10,-2988 - Saint Joseph's Hawks,-2976 - La Salle Explorers,Atlantic 10,Atlantic 10,0,video: T: signal issues at 40:31 ( 3 sec long ) - easy - taggable others: tag so
+5201649,07/04/21,23:00:00,Played,2021-04-08 07:51:22,2021-04-08 14:01:26,Patriot League,33006 - Navy Midshipmen,-2977 - Loyola Maryland GreyHounds,Patriot League,Patriot League,2,video:  others: 
+5205627,07/04/21,23:00:00,Played,2021-04-08 10:42:17,2021-04-08 19:24:43,Mid-American,-2377 - Akron Zips,-2374 - West Virginia Mountaineers,Mid-American,Mid-American,2,video:  others: 
+5201405,08/04/21,0:00:00,Played,-,-,Missouri Valley (W),-7842 - UNI Panthers,-7838 - Drake Bulldogs,Missouri Valley (W),Missouri Valley (W),0,video:  others: 
+5216889,08/04/21,14:00:00,Played,-,-,Southwestern Athletic (W),-7949 - Alcorn St. Braves,-7942 - ASU Hornets,Southwestern Athletic (W),Southwestern Athletic (W),0,video:  others: 
+5195525,08/04/21,16:00:00,Played,-,-,Big East (W),-7732 - Butler Bulldogs,-7733 - Creighton Bluejays,Big East (W),Big East (W),0,video:  others: 
+5216873,08/04/21,16:00:00,Cancelled,-,-,Metro Atlantic Athletic Conference,-2942 - Canisius Golden Griffins,-3016 - Marist Red Foxes,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,2,video:  others: 
+5216921,08/04/21,16:00:00,Played,2021-04-08 23:11:17,2021-04-09 09:52:10,Big Ten (W),-7761 - Ohio State Buckeyes,-7769 - Maryland College Park Terrapins,Big Ten (W),Big Ten (W),2,video:  others: 
+5216890,08/04/21,16:30:00,Played,-,-,Southwestern Athletic (W),-7941 - TSU Tigers,-7944 - JSU Tigers,Southwestern Athletic (W),Southwestern Athletic (W),0,video:  others: 
+5195526,08/04/21,17:00:00,Played,-,-,Big East (W),-7736 - Xavier Musketeers,-7729 - Marquette Golden Eagles,Big East (W),Big East (W),0,video:  others: 
+5199097,08/04/21,17:00:00,Played,2021-04-09 00:57:45,2021-04-09 16:20:32,Metro Atlantic Athletic Conference,-2967 - Iona Gales,-3010 - Saint Peter's Peacocks,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,0,video:  others: line up for away team provided
+5202011,08/04/21,17:00:00,Played,2021-04-09 00:43:03,2021-04-09 10:21:58,Atlantic 10 (W),-7698 - Davidson Wildcats,-7695 - VCU Rams,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5209884,08/04/21,17:00:00,Postponed,-,-,Mid-American (W),-7832 - Toledo Rockets,-7827 - Eastern Michigan Eagles,Mid-American (W),Mid-American (W),0,video:  others: 
+5216544,08/04/21,17:00:00,Played,2021-04-09 23:26:43,2021-04-10 13:04:57,Atlantic Coast (W),-7709 - Wake Forest Demon Deacon,-7707 - Boston College Eagles,Atlantic Coast (W),Atlantic Coast (W),0,video: v2 is ok others: 
+5216874,08/04/21,17:00:00,Cancelled,-,-,Metro Atlantic Athletic Conference,-3010 - Saint Peter's Peacocks,-2967 - Iona Gales,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,0,video:  others: DO NOT ASSIGN OR CHECK
+5195522,08/04/21,18:00:00,Cancelled,-,-,Big East (W),-7610 - UCONN Huskies,-7728 - Georgetown Hoyas,Big East (W),Big East (W),0,video:  others: 
+5199096,08/04/21,18:00:00,Played,2021-04-09 01:08:25,2021-04-09 09:47:13,Metro Atlantic Athletic Conference,27698 - Niagara Purple Eagles,-2982 - Monmouth Hawks,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,2,video: Т:  slight lag (easy) others: tag so
+5202010,08/04/21,18:00:00,Played,2021-04-09 01:18:59,2021-04-09 10:48:51,Atlantic 10 (W),-7676 - St. Bonaventure Bonnies,-7691 - Duquesne Duke,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5202012,08/04/21,18:00:00,Cancelled,-,-,Atlantic 10 (W),-7694 - Rhode Island Rhody,-7696 - La Salle Explorers,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5216872,08/04/21,18:30:00,Played,2021-04-09 01:09:04,2021-04-09 09:33:37,Metro Atlantic Athletic Conference,-6750 - Quinnipiac Bobcats,-3000 - Manhattan Jaspers,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,1,video:  others: 
+5194844,08/04/21,19:00:00,Played,2021-04-09 02:34:49,2021-04-09 16:09:07,Big South,-2432 - Presbyterian BlueHose,-2427 - Winthrop Eagles,Big South,Big South,0,"video: T:KO of 1dt half missing, signal issues at 43:04 - easy - taggable others: tag so"
+5194847,08/04/21,19:00:00,Played,2021-04-09 00:49:33,2021-04-09 09:25:43,Missouri Valley,-2780 - Missouri State Bears,-2885 - Loyola Chicago Ramblers,Missouri Valley,Missouri Valley,2,video:  others: 
+5195523,08/04/21,19:00:00,Played,2021-04-09 08:55:15,2021-04-09 15:01:06,Big East (W),-7731 - Providence Friars,-7666 - St John's Red Storm,Big East (W),Big East (W),0,video:  others: 
+5195670,08/04/21,19:00:00,Played,2021-04-09 00:45:15,2021-04-09 09:11:40,Big South (W),-7752 - Charleston Southern Buccaneers,-7749 - Campbell Camels,Big South (W),Big South (W),0,video:  others: 
+5202013,08/04/21,19:00:00,Played,2021-04-09 00:53:15,2021-04-09 16:23:12,Atlantic 10 (W),-7693 - Richmond Spiders,-7688 - George Mason Patriots,Atlantic 10 (W),Atlantic 10 (W),0,video: T: slight lag (easy) others: tag so
+5209885,08/04/21,19:00:00,Played,2021-04-09 00:59:12,2021-04-09 17:32:44,Mid-American (W),-7833 - Western Michigan Broncos,-7826 - Central Michigan Chippewas,Mid-American (W),Mid-American (W),0,video: T:raindrops on the camera last 5 minutes from 1st half and from begging of the 2nd half till 30:00 - easy - taggable others: tag so
+5209886,08/04/21,19:00:00,Played,-,-,Mid-American (W),-7830 - Northern Illinois Huskies,-7823 - Ball State Cardinals,Mid-American (W),Mid-American (W),0,video:  others: 
+5216908,08/04/21,19:00:00,Played,2021-04-09 08:36:42,2021-04-09 14:53:44,Big Ten (W),-7757 - Rutgers Scarlet Knights,-7765 - Michigan State Spartans,Big Ten (W),Big Ten (W),2,video:  others: 
+5195672,08/04/21,20:00:00,Played,2021-04-09 01:20:28,2021-04-09 10:46:41,Big South (W),-7748 - High Point Panthers,-7750 - Longwood Lancers,Big South (W),Big South (W),0,video:  others: 
+5209887,08/04/21,20:00:00,Played,-,-,Mid-American (W),-7831 - Ohio Bobcats,-7828 - Kent State Golden Flashes,Mid-American (W),Mid-American (W),0,video:  others: 
+5209888,08/04/21,20:00:00,Postponed,-,-,Mid-American (W),-7829 - Miami Redhawks,-7824 - Bowling Green Falcons,Mid-American (W),Mid-American (W),0,video:  others: 
+5216891,08/04/21,20:00:00,Played,-,-,Southwestern Athletic (W),-7946 - SU Jaguars,-7945 - PVAMU Panthers,Southwestern Athletic (W),Southwestern Athletic (W),0,video:  others: 
+5216923,08/04/21,20:00:00,Cancelled,-,-,Big Ten (W),-7756 - Minnesota Golden Gophers,-7758 - Nebraska Cornhuskers,Big Ten (W),Big Ten (W),2,video:  others: 
+5195524,08/04/21,22:00:00,Played,2021-04-09 10:51:06,2021-04-09 20:33:10,Big East (W),-7734 - Seton Hall Pirates,-7735 - Villanova Wildcats,Big East (W),Big East (W),1,video: Т:slight lag - easy others: tag so
+5195674,08/04/21,22:00:00,Played,2021-04-09 03:01:01,2021-04-09 15:26:16,Big South (W),-7754 - Winthrop Eagles,-7674 - Radford Highlanders,Big South (W),Big South (W),0,video: T:KO of 1st half and few second from its starts missing - easy - taggable others: tag so
+5216892,08/04/21,22:30:00,Played,-,-,Southwestern Athletic (W),-7940 - Arkansas Pine Bluff Golden Lions,-7948 - Grambling Tigers,Southwestern Athletic (W),Southwestern Athletic (W),0,video:  others: 
+5194719,08/04/21,23:00:00,Played,2021-04-09 06:38:12,2021-04-09 13:35:58,Missouri Valley,-2314 - Evansville Purple Aces,-2895 - Drake Bulldogs,Missouri Valley,Missouri Valley,2,video:  others: 
+5194842,08/04/21,23:00:00,Played,2021-04-09 06:43:09,2021-04-09 13:06:10,Big South,-2428 - High Point Panthers,-2435 - UNC Asheville Bulldogs,Big South,Big South,0,video:  others: 
+5195213,08/04/21,23:00:00,Played,2021-04-09 08:40:29,2021-04-09 15:18:10,Atlantic Coast,-2994 - Pittsburgh Panthers University,27807 - Virginia Cavaliers,Atlantic Coast,Atlantic Coast,2,video:  others: 
+5195671,08/04/21,23:00:00,Played,2021-04-09 06:57:02,2021-04-09 13:32:48,Big South (W),-7751 - Gardner-Webb Bulldogs,-7684 - USC Upstate Spartans,Big South (W),Big South (W),0,video:  others: 
+5195673,08/04/21,23:00:00,Played,2021-04-09 06:59:34,2021-04-09 14:38:21,Big South (W),-7755 - Presbyterian BlueHose,-7753 - UNC Asheville Bulldogs,Big South (W),Big South (W),0,video:  others: 
+5199586,08/04/21,23:00:00,Played,-,-,Pacific 12,-2863 - Washington Huskies,-2318 - UCLA Bruins,Pacific 12,Pacific 12,0,video:  others: 
+5202014,08/04/21,23:00:00,Played,2021-04-09 07:57:10,2021-04-09 14:06:10,Atlantic 10 (W),-7689 - Fordham Rams,-7686 - Saint Joseph's Hawks,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5209889,08/04/21,23:00:00,Played,-,-,Mid-American (W),-7825 - Buffalo Bulls,-7661 - Akron Zips,Mid-American (W),Mid-American (W),0,video:  others: 
+5216925,08/04/21,23:00:00,Played,2021-04-09 04:06:45,2021-04-09 10:12:43,Big Ten (W),-7759 - Northwestern Wildcats,-7768 - Purdue Boilermakers,Big Ten (W),Big Ten (W),2,video: T:no audio - avg - taggable others: tag so
+5201720,09/04/21,0:00:00,Played,2021-04-09 09:47:17,2021-04-09 23:42:15,Conference USA (W),-7789 - Rice Owls,-7794 - UTEP Miners,Conference USA (W),Conference USA (W),0,video: T: video is bluring - taggable - avg others: tag so
+5216924,09/04/21,0:00:00,Played,2021-04-09 09:53:17,2021-04-09 14:47:18,Big Ten (W),-7767 - Illinois Fighting Illini,-7766 - Iowa Hawkeyes,Big Ten (W),Big Ten (W),2,video:  others: 
+5202015,09/04/21,1:00:00,Played,2021-04-09 07:02:08,2021-04-10 02:56:10,Atlantic 10 (W),-7687 - Saint Louis Billikens,-7692 - Dayton Flyers,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5194067,09/04/21,16:00:00,Played,2021-04-10 08:43:13,2021-04-10 20:03:16,Western Athletic,-6753 - UTRGV Vaqueros,-3003 - UIW Cardinals,Western Athletic,Western Athletic,2,video: T: broadcast interruption at 18:03 ( no time lost )  - diff - taggable others: tag so
+5210638,09/04/21,16:00:00,Played,-,-,Big Sky (W),-7746 - Southern Utah Thunderbirds,-7738 - Idaho State Bengals,Big Sky (W),Big Sky (W),0,video:  others: 
+5194314,09/04/21,17:00:00,Played,2021-04-10 08:46:35,2021-04-10 22:35:48,Western Athletic (W),-7968 - Chicago State Cougars,-7966 - UTRGV Vaqueros,Western Athletic (W),Western Athletic (W),1,"video: T:video is lagging, home team numbers are hardly recongnizable - maybe taggabler with extra effort others: tag so"
+5205699,09/04/21,18:00:00,Played,2021-04-10 09:42:49,reported,America East (W),-7660 - UMBC Retrievers,-7657 - Binghamton BearCats,America East (W),America East (W),0,video: F(273604/20210410-13:08:48): OTHER / the play stopped at 1:30:01 and resume at 1:55:00 so 2nd half is of 71 min. / Т: there is an injured player on the pitch from 01:08:00 to 01:31:20 (could you cut that part) - avg - taggable others: 
+5205700,09/04/21,18:00:00,Cancelled,-,-,America East (W),-7652 - New Hampshire Wildcats,-7654 - Stony Brook Seawolves,America East (W),America East (W),0,video:  others: 
+5218282,09/04/21,18:00:00,Played,2021-04-10 00:14:06,2021-04-10 20:12:52,Metro Atlantic Athletic Conference (W),-7818 - Quinnipiac Bobcats,-7820 - Fairfield Stags,Metro Atlantic Athletic Conference (W),Metro Atlantic Athletic Conference (W),0,video: T: video lags (easy) others: tag so
+5193757,09/04/21,19:00:00,Played,2021-04-10 11:57:22,2021-04-10 21:12:21,Summit League (W),-7747 - North Dakota Fighting Hawks,-7516 - SD Coyotes,Summit League (W),Summit League (W),0,video:  others: 
+5195324,09/04/21,19:00:00,Played,2021-04-10 00:00:29,2021-04-10 18:56:56,America East,-2926 - Hartford Hawks,-2989 - Albany Great Danes,America East,America East,2,video: T: video lags (easy) others: tag so
+5199729,09/04/21,19:00:00,Played,-,-,Pacific 12 (W),-7882 - California Golden Bears,-7879 - UCLA Bruins,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5201428,09/04/21,19:00:00,Cancelled,-,-,Northeast (W),-7649 - SHU Pioneers,-7651 - Wagner Seahawks,Northeast (W),Northeast (W),0,video:  others: 
+5216896,09/04/21,19:00:00,Played,2021-04-10 15:14:58,2021-04-10 20:50:38,Southern (W),-7913 - Samford Bulldogs,-7917 - Mercer Bears,Southern (W),Southern (W),0,video: F(273604/20210410-13:01:08): OTHER / there was an advertisement between 2nd half so 2nd half is of 144min. others: V1 ok
+5218281,09/04/21,19:00:00,Played,2021-04-10 00:07:33,2021-04-10 20:05:39,Metro Atlantic Athletic Conference (W),-7671 - Siena Saints,-7821 - Iona Gales,Metro Atlantic Athletic Conference (W),Metro Atlantic Athletic Conference (W),1,video: T: video lags (easy) others: tag so
+5194315,09/04/21,20:00:00,Played,2021-04-10 09:53:36,2021-04-10 16:07:47,Western Athletic (W),-7967 - NM State Aggies,-7964 - Grand Canyon Lopes,Western Athletic (W),Western Athletic (W),0,video:  others: 
+5195305,09/04/21,20:00:00,Played,2021-04-10 17:06:07,2021-04-11 04:27:35,America East,-3023 - UMASS Lowell River Hawks,-3002 - Stony Brook Seawolves,America East,America East,2,video: v1 is ok others: 
+5201817,09/04/21,20:00:00,Played,2021-04-10 03:21:03,2021-04-10 20:03:02,Patriot League (W),-12737 - Army West Point Black Knights,-7892 - Colgate Raiders,Patriot League (W),Patriot League (W),0,video: T:slight lag - easy others: tag so
+5216893,09/04/21,20:00:00,Played,-,-,Southwestern Athletic (W),-7942 - ASU Hornets,-7944 - JSU Tigers,Southwestern Athletic (W),Southwestern Athletic (W),0,video:  others: 
+5216922,09/04/21,20:00:00,Cancelled,-,-,Big Ten (W),-7764 - Indiana Hoosiers,-7763 - Michigan Wolverines,Big Ten (W),Big Ten (W),2,video:  others: 
+5218283,09/04/21,20:00:00,Played,2021-04-10 01:39:23,2021-04-10 21:47:45,Metro Atlantic Athletic Conference (W),-7664 - Rider Broncs,-7673 - Manhattan Jaspers,Metro Atlantic Athletic Conference (W),Metro Atlantic Athletic Conference (W),0,video: T: video lags (avg) others: tag so
+5199680,09/04/21,20:30:00,Played,-,-,Pacific 12 (W),-7881 - Colorado Buffs,-7884 - Arizona Wildcats,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5195323,09/04/21,21:00:00,Played,2021-04-10 03:13:17,2021-04-10 20:14:42,America East,-2985 - Vermont Catamouts,-4199 - New Hampshire Wildcats,America East,America East,2,"video: F(300752/20210410-06:30:57): OTHER / Kick off missing from 1st Half / T: broadcast interrption at 2:47 ( 1st half - no playing time lost ) , home team shirt issue - avg - taggable others: tag so"
+5195744,09/04/21,21:00:00,Played,2021-04-10 17:43:45,2021-04-10 22:25:09,Colonial Athletic Association,-2856 - JMU Dukes,-6749 - UNCW Seahawks,Colonial Athletic Association,Colonial Athletic Association,2,video:  others: 
+5195850,09/04/21,21:00:00,Played,2021-04-10 12:11:41,no_other_versions,Mountain West (W),-7847 - Utah St. Aggies,-7857 - CSU Rams,Mountain West (W),Mountain West (W),0,video: Т: there is a net in front of the camera that makes the numbers from home team unclear others: asked in slack / 10.04 - 18:30
+5201719,09/04/21,21:00:00,Played,2021-04-10 03:22:39,2021-04-10 22:30:42,Conference USA (W),-7797 - Marshall Thundering Herd,-7801 - Middle Tennessee Blue Raiders,Conference USA (W),Conference USA (W),0,"video: T:KO of 1st half missing ( also 10 seconds from the begging of it ), shirt issue for home team - easy - taggable others: tag so"
+5210639,09/04/21,21:00:00,Played,-,-,Big Sky (W),-7744 - Portland State Vikings,-7742 - Sacramento State Hornets,Big Sky (W),Big Sky (W),0,video:  others: 
+5218284,09/04/21,21:00:00,Played,2021-04-10 03:17:15,2021-04-10 21:02:58,Metro Atlantic Athletic Conference (W),-7817 - Monmouth Hawks,-7665 - Niagara Purple Eagles,Metro Atlantic Athletic Conference (W),Metro Atlantic Athletic Conference (W),0,video: T:sligh lag - easy others: tag so
+5210637,09/04/21,21:30:00,Played,-,-,Big Sky (W),-7743 - Weber State Wildcats,-7741 - Northern Colorado Bears,Big Sky (W),Big Sky (W),0,video:  others: 
+5194144,09/04/21,22:00:00,Played,-,-,Southland (W),-7922 - Central Arkansas Bears,-7926 - Northwestern St. Demons,Southland (W),Southland (W),1,video:  others: 
+5194191,09/04/21,22:00:00,Cancelled,-,-,Southland (W),-7927 - McNeese Geauxpokes,-7932 - Lamar Cardinals,Southland (W),Southland (W),0,video:  others: 
+5194316,09/04/21,22:00:00,Played,2021-04-10 11:47:45,reported,Western Athletic (W),-12198 - California Baptist Lancers,-7961 - Seattle Redhawks,Western Athletic (W),Western Athletic (W),0,video: F(282880/20210410-15:10:37): OTHER / First OT kickoff was missing .T: the video is lagging - taggable - avg others: 
+5195849,09/04/21,22:00:00,Played,-,-,Mountain West (W),-7855 - Boise St. Broncos,-7846 - San Diego St. Aztecs,Mountain West (W),Mountain West (W),0,video:  others: 
+5199728,09/04/21,22:00:00,Played,-,-,Pacific 12 (W),-7887 - Washington Huskies,-7885 - Oregon Ducks,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199730,09/04/21,22:00:00,Played,-,-,Pacific 12 (W),-7877 - Stanford Cardinal,-7878 - USC Trojans,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5201722,09/04/21,22:00:00,Played,2021-04-10 12:31:36,2021-04-10 20:00:54,Conference USA (W),-7792 - FAU Owls,-7800 - FIU Panthers,Conference USA (W),Conference USA (W),0,video: T:video is lagging - diff - taggable others: tag so
+5201839,09/04/21,22:00:00,Fixture,2021-04-10 03:29:44,2021-04-10 13:06:00,Patriot League (W),-7891 - Lehigh Mountain Hawks,-7895 - Loyola Greyhounds,Patriot League (W),Patriot League (W),0,video:  others: 
+5201843,09/04/21,22:00:00,Fixture,-,-,Patriot League (W),-7890 - Boston Terriers,-7897 - Holy Cross Crusaders,Patriot League (W),Patriot League (W),0,video:  others: 
+5201848,09/04/21,22:00:00,Postponed,-,-,Patriot League (W),-7891 - Lehigh Mountain Hawks,-7894 - Lafayette Leopards,Patriot League (W),Patriot League (W),0,video:  others: 
+5216885,09/04/21,22:00:00,Played,2021-04-10 03:15:37,2021-04-10 20:49:25,Southern,-2957 - Furman Paladins,-3004 - Belmont Bruins,Southern,Southern,2,video: T:slight lag - easy others: tag so
+5216894,09/04/21,22:30:00,Played,-,-,Southwestern Athletic (W),-7946 - SU Jaguars,-7948 - Grambling Tigers,Southwestern Athletic (W),Southwestern Athletic (W),0,video:  others: 
+5193760,09/04/21,23:00:00,Played,2021-04-10 07:58:25,2021-04-10 21:51:01,Summit League (W),-7963 - UMKC Kangaroos,-7520 - Denver Pioneers,Summit League (W),Summit League (W),0,video: Т: frist half starts from 35:36 ( 10 minutes missing )  - avg - taggable others: tag so
+5194070,09/04/21,23:00:00,Played,2021-04-10 10:06:53,2021-04-10 18:45:53,Western Athletic,-3018 - Air Force Falcons,-3013 - HBU Huskies,Western Athletic,Western Athletic,2,video: T: video freezes at 01:28:54 for 2 minutes others: tag so
+5195208,09/04/21,23:00:00,Played,-,-,Atlantic Coast,-2791 - Boston College Eagles,27622 - NC State Wolfpack,Atlantic Coast,Atlantic Coast,2,video:  others: 
+5195209,09/04/21,23:00:00,Played,2021-04-10 13:01:30,2021-04-10 18:24:15,Atlantic Coast,27620 - Louisville Cardinals,27572 - Clemson Tigers,Atlantic Coast,Atlantic Coast,2,"video: T:video is slightly lagging, away team shirts are hardly recognizable - easy- taggable others: line up for away team provided"
+5195210,09/04/21,23:00:00,Cancelled,-,-,Atlantic Coast,27623 - Syracuse Orange,-2370 - Wake Forest Demon Deacon,Atlantic Coast,Atlantic Coast,1,video:  others: 
+5195212,09/04/21,23:00:00,Played,-,-,Atlantic Coast,-2749 - Notre Dame Fighting Irish University,-2756 - Virginia Tech Hokies University,Atlantic Coast,Atlantic Coast,2,video:  others: 
+5195325,09/04/21,23:00:00,Played,2021-04-10 13:08:26,footage_check,America East,-2907 - NJIT Highlanders,-5983 - UMBC Retrievers,America East,America East,2,"video: T: slightly lagging, there is times where the focus is from the opposite  side of the pitch ( for exmaple: 07:13, 09:05, 21:00, 34:19 , 44:58, 49:11 , 01:16:56 and more ) also black screen at 01:10:14 ( 1 sec long )  -  not sure if taggable / v1 seems the same others: "
+5201411,09/04/21,23:00:00,Played,2021-04-10 13:57:26,2021-04-10 21:29:20,Northeast (W),-7644 - CCSU Blue Devils,-7643 - Bryant Bulldogs,Northeast (W),Northeast (W),0,video:  others: 
+5201721,09/04/21,23:00:00,Fixture,-,-,Conference USA (W),-7796 - LA Tech Bulldogs,-7802 - UAB Blazers,Conference USA (W),Conference USA (W),0,video:  others: 
+5201723,09/04/21,23:00:00,Played,2021-04-10 13:58:38,to_assign,Conference USA (W),-7793 - WKU Red Wave,-7791 - Charlotte 49ers,Conference USA (W),Conference USA (W),0,video: Т: the video is lagging - taggable - avg others: tag so
+5201847,09/04/21,23:00:00,Played,2021-04-10 07:14:46,2021-04-10 13:12:29,Patriot League (W),-7893 - Navy Midshipmen,-7898 - American Eagles,Patriot League (W),Patriot League (W),0,video:  others: 
+5201957,09/04/21,23:00:00,Fixture,-,-,Atlantic 10,-6748 - UMass Minutemen,-3022 - Rhode Island Rhody,Atlantic 10,Atlantic 10,1,video:  others: 
+5218757,09/04/21,23:00:00,Played,2021-04-10 19:51:23,2021-04-11 00:32:28,Patriot League,-5993 - Lafayette Leopards,-2829 - Lehigh Mountain Hawks,Patriot League,Patriot League,2,video:  others: 
+5194190,10/04/21,0:00:00,Fixture,-,-,Southland (W),-7923 - SFA Jacks,-7933 - Sam Houston Bearkats,Southland (W),Southland (W),1,video:  others: 
+5194192,10/04/21,0:00:00,Played,2021-04-10 07:20:05,no_other_versions,Southland (W),-7928 - Southeastern Louisiana Lions,-7929 - Nicholls St. Colonels,Southland (W),Southland (W),0,video: T: poor camera man work during the 1st goal which is not visible ( 08:21) - easy - taggable others: tag so
+5194193,10/04/21,0:00:00,Played,-,-,Southland (W),-7931 - Texas A&M Islanders,-7925 - HBU Huskies,Southland (W),Southland (W),0,video:  others: 
+5194194,10/04/21,0:00:00,Played,-,-,Southland (W),-7924 - Abilene Wildcats,-7930 - UIW Cardinals,Southland (W),Southland (W),0,video:  others: 
+5194681,10/04/21,0:00:00,Played,2021-04-10 14:06:38,no_other_versions,American Athletic,-2818 - Tulsa Hurricane University,27518 - USF Bulls,American Athletic,American Athletic,2,"video: F(273604/20210410-10:53:35): OTHER / there is an advertisement in between 1st half. / T: the match is interrupted for any reason and from 18:48 to 01:41:05 there is a advisements ( could you cut out that part) , also 2nd half KO missing + 30 seconds  / v1 only 2T KO missing (23 seconds) - easy others: tag so"
+5201724,10/04/21,0:00:00,Played,2021-04-10 10:44:16,2021-04-10 19:52:43,Conference USA (W),-7790 - North Texas Mean Green,-7799 - UTSA Roadrunners,Conference USA (W),Conference USA (W),0,"video: T:freeze at 29:11 (2nd half ) , shirt issue for home team - easy - taggable others: tag so"
+5194068,10/04/21,1:00:00,Played,2021-04-10 10:40:55,2021-04-10 18:13:01,Western Athletic,-4204 - Utah Valley Wolverines,-12197 - California Baptist Lancers,Western Athletic,Western Athletic,2,video:  others: 
+5199731,10/04/21,1:00:00,Played,-,-,Pacific 12 (W),-7880 - Utah Utes,-7888 - ASU Sun Devils,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199786,10/04/21,1:00:00,Played,2021-04-10 07:52:17,reported,American Athletic,-2892 - Memphis Tigers University,-2356 - UCF Knights University,American Athletic,American Athletic,1,"video: T: signal issue from 22:47 to 19:53 ( 1 goal missing - 1st half) and from 19:06 to 16:22 ( 2nd half )  , 6-7 minutes missing at all - easy - taggable others: "
+5210640,10/04/21,1:00:00,Played,-,-,Big Sky (W),-7740 - Montana Griz,-7737 - Eastern Washington Eagles,Big Sky (W),Big Sky (W),0,video:  others: 
+5195848,10/04/21,1:30:00,Played,-,-,Mountain West (W),-7856 - Nevada WolfPack,-7845 - UNLV Rebels,Mountain West (W),Mountain West (W),0,video:  others: 
+5195851,10/04/21,1:30:00,Played,2021-04-10 13:48:40,2021-04-10 23:07:43,Mountain West (W),-7852 - New Mexico Lobos,-7849 - Wyoming Cowboys,Mountain West (W),Mountain West (W),0,video:  others: 
+5199732,10/04/21,2:00:00,Played,-,-,Pacific 12 (W),-7883 - Washington State Cougars,-7886 - Oregon State Beavers,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5194069,10/04/21,3:00:00,Cancelled,-,-,Western Athletic,-2406 - San Jose State Spartans,-2321 - Seattle Redhawks,Western Athletic,Western Athletic,2,video:  others: 
+5201774,10/04/21,15:00:00,Fixture,2021-04-11 00:12:49,in_tagging,Conference USA,-2310 - Kentucky Wildcats,27626 - Old Dominion Monarchs,Conference USA,Conference USA,2,video: T: v2 lags / easy others: tag so
+5201775,10/04/21,15:00:00,Fixture,-,-,Conference USA,27625 - FIU Panthers,27556 - South Carolina Gamecocks,Conference USA,Conference USA,2,video:  others: 
+5210677,10/04/21,15:00:00,Fixture,2021-04-10 22:50:27,to_assign,Atlantic 10 (W),-7693 - Richmond Spiders,-7695 - VCU Rams,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5195066,10/04/21,15:30:00,Fixture,2021-04-10 23:50:49,in_tagging,Big East,-2908 - Butler Bulldogs,-2375 - Creighton Bluejays,Big East,Big East,1,video:  others: 
+5205703,10/04/21,16:00:00,Fixture,2021-04-10 20:47:06,to_assign,America East (W),-7672 - NJIT Highlanders,-7658 - Albany Great Danes,America East (W),America East (W),0,video: Т: video lags (easy) others: tag so
+5216880,10/04/21,16:00:00,Fixture,2021-04-10 22:58:05,to_assign,ASUN (W),-7685 - Kennesaw State Owls,-13210 - Bellarmine Knights,ASUN (W),ASUN (W),0,video: T: video lags (avg) others: tag so
+5217645,10/04/21,16:00:00,Fixture,-,-,Big Ten,-2407 - Penn State Nittany Lion,-2365 - Ohio State Buckeyes,Big Ten,Big Ten,1,video:  others: 
+5195751,10/04/21,17:00:00,Fixture,-,-,Colonial Athletic Association (W),-7779 - UNCW Seahawks,-7783 - JMU Dukes,Colonial Athletic Association (W),Colonial Athletic Association (W),0,video:  others: 
+5197818,10/04/21,17:00:00,Fixture,-,-,Colonial Athletic Association (W),-7780 - Hofstra Pride,-7785 - Towson Tigers,Colonial Athletic Association (W),Colonial Athletic Association (W),0,video:  others: 
+5197819,10/04/21,17:00:00,Fixture,-,-,Colonial Athletic Association (W),-7787 - Delaware Blue Hens,-7782 - Drexel Dragons,Colonial Athletic Association (W),Colonial Athletic Association (W),0,video:  others: 
+5201067,10/04/21,17:00:00,Fixture,2021-04-10 22:50:43,to_assign,Colonial Athletic Association,-2840 - Northeastern Huskies,-2965 - Hofstra Pride,Colonial Athletic Association,Colonial Athletic Association,1,video: T: no audio / easy others: tag so
+5205717,10/04/21,17:00:00,Fixture,2021-04-10 23:07:37,to_assign,Big 12 (W),-12289 - Kansas State Wildcats,-7718 - Iowa State Cyclones,Big 12 (W),Big 12 (W),0,video: T: video lags (easy) others: tag so
+5216668,10/04/21,17:00:00,Fixture,2021-04-10 23:00:34,to_assign,Conference USA,-2371 - Charlotte 49ers,-2827 - FAU Owls,Conference USA,Conference USA,2,video: Т: video lags (avg) others: tag so
+5216878,10/04/21,17:00:00,Fixture,-,-,ASUN (W),-7679 - FGCU Eagles,-7683 - Jacksonville Dolphins,ASUN (W),ASUN (W),0,video:  others: 
+5216879,10/04/21,17:00:00,Fixture,-,-,ASUN (W),-7682 - North Florida Ospreyes,-7681 - Stetson Hatters,ASUN (W),ASUN (W),0,video:  others: 
+5217643,10/04/21,17:00:00,Fixture,-,-,Big Ten,27586 - Maryland College Park Terrapins,-2361 - Rutgers Scarlet Knights,Big Ten,Big Ten,1,video:  others: 
+5195852,10/04/21,18:00:00,Fixture,-,-,Mountain West (W),-7850 - Fresno St. Bulldogs,-7848 - San Jose St. Spartans,Mountain West (W),Mountain West (W),0,video:  others: 
+5201777,10/04/21,18:00:00,Fixture,-,-,Conference USA,27526 - UAB Blazers,-2811 - Marshall Thundering Herd,Conference USA,Conference USA,1,video:  others: 
+5201959,10/04/21,18:00:00,Fixture,2021-04-10 23:09:10,to_check,Atlantic 10,27557 - George Mason Patriots,33073 - VCU Rams,Atlantic 10,Atlantic 10,0,video:  others: https://gomason.com/sports/mens-soccer/stats/2020-21/virginia-commonwealth-university/boxscore/11083
+5204399,10/04/21,18:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7710 - Louisville Cardinals,-7908 - Tennessee Vols,Atlantic Coast (W),SEC (W),0,video:  others: 
+5205701,10/04/21,18:00:00,Fixture,-,-,America East (W),-7656 - Vermont Catamouts,-7659 - UMASS Lowell River Hawks,America East (W),America East (W),0,video:  others: 
+5205727,10/04/21,18:00:00,Fixture,-,-,SEC (W),-7909 - Alabama Crimson Tide,-7912 - Mississippi St. Bulldogs,SEC (W),SEC (W),0,video:  others: 
+5217644,10/04/21,18:00:00,Fixture,-,-,Big Ten,-2825 - Michigan Wolverines,-2838 - Michigan State Spartans,Big Ten,Big Ten,0,video:  others: 
+5194613,10/04/21,19:00:00,Fixture,-,-,West Coast (W),-7526 - Pepperdine Waves,-7524 - BYU Cougars,West Coast (W),West Coast (W),0,video:  others: 
+5194614,10/04/21,19:00:00,Fixture,-,-,West Coast (W),-7533 - Pacific Tigers Hawaii University,-7528 - San Diego Toreros University,West Coast (W),West Coast (W),0,video:  others: 
+5201652,10/04/21,19:00:00,Fixture,-,-,Patriot League,-2881 - American University Eagles,33006 - Navy Midshipmen,Patriot League,Patriot League,2,video:  others: 
+5201672,10/04/21,19:00:00,Cancelled,2021-04-11 00:41:34,to_assign,Patriot League,-2881 - American University Eagles,33006 - Navy Midshipmen,Patriot League,Patriot League,2,video: T: slight lag (easy) others: tag so
+5201673,10/04/21,19:00:00,Fixture,-,-,Patriot League,-2822 - Colgate Raiders,-2767 - Holy Cross Crusaders,Patriot League,Patriot League,2,video:  others: 
+5204396,10/04/21,19:00:00,Fixture,2021-04-11 00:25:33,to_assign,NCAA Non-conference Women matches,-7700 - Virginia Cavaliers,-7713 - West Virginia Mountaineers,Atlantic Coast (W),Big 12 (W),0,video:  others: 
+5205702,10/04/21,19:00:00,Fixture,-,-,America East (W),-7655 - Maine Blackbears,-7653 - Hartford Hawks,America East (W),America East (W),0,video:  others: 
+5216546,10/04/21,19:00:00,Fixture,-,-,Colonial Athletic Association (W),-7781 - William & Mary Tribe,-7786 - Elon Phoenix,Colonial Athletic Association (W),Colonial Athletic Association (W),0,video:  others: 
+5216876,10/04/21,19:00:00,Fixture,2021-04-10 23:00:06,no_other_versions,Atlantic 10,-2992 - St. Bonaventure Bonnies,32986 - University of Dayton  Flyers,Atlantic 10,Atlantic 10,0,video: T: first 10 seconds missing (easy) others: tag so
+5216881,10/04/21,19:00:00,Fixture,2021-04-10 23:19:59,to_assign,ASUN (W),-7680 - Lipscomb Bisons,-7662 - Liberty Flames,ASUN (W),ASUN (W),0,video: Т: video lags (easy) others: tag so
+5195065,10/04/21,19:30:00,Fixture,-,-,Big East,-2357 - St John's Red Storm,-2821 - Georgetown Hoyas,Big East,Big East,2,video:  others: 
+5194583,10/04/21,20:00:00,Cancelled,-,-,West Coast (W),-7525 - Santa Clara Broncos University,-7531 - Gonzaga Bulldogs University,West Coast (W),West Coast (W),0,video:  others: 
+5194615,10/04/21,20:00:00,Fixture,-,-,West Coast (W),-7527 - LMU Lions,-7530 - San Francisco Dons,West Coast (W),West Coast (W),0,video:  others: 
+5194616,10/04/21,20:00:00,Fixture,-,-,West Coast (W),-7529 - Portland Pilots University,-7532 - Saint Mary's Gaels University California,West Coast (W),West Coast (W),0,video:  others: 
+5195059,10/04/21,20:00:00,Fixture,-,-,Big East,-2779 - UCONN Huskies University,-2963 - Villanova Wildcats,Big East,Big East,2,video:  others: 
+5195064,10/04/21,20:00:00,Fixture,-,-,Big East,-2950 - Providence Friars,-2884 - Seton Hall Pirates,Big East,Big East,1,video:  others: 
+5195067,10/04/21,20:00:00,Fixture,-,-,Big East,-2947 - Marquette Golden Eagles,-2868 - Xavier Musketeers,Big East,Big East,2,video:  others: 
+5201670,10/04/21,20:00:00,Fixture,2021-04-11 01:56:48,to_assign,Patriot League,-2984 - Boston Terriers,-5991 - Army West Point Black Knights,Patriot League,Patriot League,2,video: T: slight lag (easy) others: tag so
+5201846,10/04/21,20:00:00,Fixture,-,-,Patriot League (W),-12737 - West Point Black Knights,-7890 - Boston Terriers,Patriot League (W),Patriot League (W),0,video:  others: 
+5201960,10/04/21,20:00:00,Fixture,-,-,Atlantic 10,-3011 - George Washington Colonials,-2978 - Davidson Wildcats,Atlantic 10,Atlantic 10,1,video:  others: 
+5204299,10/04/21,20:00:00,Fixture,-,-,NCAA Non-conference Men matches,-2358 - DePaul Blue Demons,-13758 - Aurora University ,Big East,,1,video:  others: 
+5205533,10/04/21,20:00:00,Fixture,-,-,Colonial Athletic Association,-2916 - Elon Phoenix,27773 - William & Mary Tribe,Colonial Athletic Association,Colonial Athletic Association,2,video:  others: 
+5193814,10/04/21,21:00:00,Fixture,-,-,Summit League,-3027 - Eastern Illinois Panthers,-2959 - Denver Pioneers,Summit League,Summit League,2,video:  others: 
+5197661,10/04/21,21:00:00,Fixture,-,-,Colonial Athletic Association,-2969 - Drexel Dragons,-2760 - Delaware Blue Hens,Colonial Athletic Association,Colonial Athletic Association,2,video:  others: 
+5205718,10/04/21,21:00:00,Fixture,-,-,Big 12 (W),-7714 - Oklahoma Sooners,-7720 - Baylor Bears,Big 12 (W),Big 12 (W),0,video:  others: 
+5195658,10/04/21,22:00:00,Cancelled,-,-,Big South (W),-7748 - High Point Panthers,-7684 - USC Upstate Spartans,Big South (W),Big South (W),0,video:  others: 
+5201669,10/04/21,22:00:00,Fixture,-,-,Patriot League,-2977 - Loyola Maryland GreyHounds,-2790 - Bucknell Bison,Patriot League,Patriot League,2,video:  others: 
+5201958,10/04/21,22:00:00,Fixture,2021-04-11 01:58:14,to_assign,Atlantic 10,-2988 - Saint Joseph's Hawks,-3008 - Fordham Rams,Atlantic 10,Atlantic 10,0,video:  others: 
+5204397,10/04/21,22:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7899 - South Carolina Gamecocks,-7702 - Clemson Tigers,SEC (W),Atlantic Coast (W),0,video:  others: 
+5204398,10/04/21,22:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7709 - Wake Forest Demon Deacon,-7953 - Appalachian St. Mountaineers,Atlantic Coast (W),Sun Belt (W),0,video:  others: 
+5216886,10/04/21,22:00:00,Fixture,2021-04-10 23:56:10,reported,Southern,-2964 - UNCG Spartans,-2774 - ETSU Buccaneers,Southern,Southern,2,"video: F(302011/20210411-03:21:43): OTHER / First Half ending vissle is not happens 
+
+T: missing the end of first half (probably some secons) / diff others: "
+5217629,10/04/21,22:00:00,Fixture,-,-,ASUN,-3021 - Jacksonville Dolphins,-3020 - Stetson Hatters,ASUN,ASUN,2,video:  others: 
+5216897,10/04/21,23:00:00,Fixture,-,-,Southern (W),-7914 - Furman Paladins,-7919 - Chattanooga Mocs,Southern (W),Southern (W),0,video:  others: 
+5217630,10/04/21,23:00:00,Fixture,-,-,ASUN,-2981 - FGCU Eagles,-2363 - North Florida Ospreyes,ASUN,ASUN,2,video:  others: 
+5217634,10/04/21,23:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7902 - Arkansas Razorbacks,-7954 - Arkansas St. Red Wolves,SEC (W),Sun Belt (W),0,video:  others: 
+5217642,10/04/21,23:00:00,Fixture,-,-,Big Ten,-2824 - Indiana Hoosiers,-2826 - Northwestern Wildcats,Big Ten,Big Ten,2,video:  others: 
+5193817,11/04/21,0:00:00,Postponed,-,-,Summit League,-3015 - Nebraska Omaha Mavericks,-2959 - Denver Pioneers,Summit League,Summit League,2,video:  others: 
+5193818,11/04/21,0:00:00,Fixture,-,-,Summit League,-3026 - UMKC Kangaroos,-3017 - Oral Roberts Golden Eagles,Summit League,Summit League,2,video:  others: 
+5194317,11/04/21,0:00:00,Fixture,-,-,Western Athletic (W),-7962 - Utah Valley Wolverines,-13435 - Dixie State Blazers,Western Athletic (W),Western Athletic (W),0,video:  others: 
+5199602,11/04/21,0:00:00,Fixture,-,-,Pacific 12,-2355 - Oregon State Beavers,-2869 - Stanford Cardinal,Pacific 12,Pacific 12,1,video:  others: 
+5201961,11/04/21,0:00:00,Fixture,-,-,Atlantic 10,-2958 - Saint Louis Billikens,-2966 - Duquesne Dukes,Atlantic 10,Atlantic 10,1,video:  others: 
+5217628,11/04/21,0:00:00,Fixture,2021-04-11 04:08:50,to_assign,ASUN,-2991 - Lipscomb Bisons,-2775 - Liberty Flames,ASUN,ASUN,2,video:  others: 
+5194682,11/04/21,1:00:00,Fixture,-,-,American Athletic,27517 - SMU Mustangs,-2893 - Temple Owls University,American Athletic,American Athletic,2,video:  others: 
+5195853,11/04/21,1:00:00,Cancelled,-,-,Mountain West (W),-7853 - Colorado College Tigers,-7854 - Air Force Falcons,Mountain West (W),Mountain West (W),0,video:  others: 
+5199603,11/04/21,2:00:00,Fixture,-,-,Pacific 12,-2353 - Berkeley Golden Bears,-2354 - San Diego State Aztecs,Pacific 12,Pacific 12,1,video:  others: 
+5194071,11/04/21,3:00:00,Fixture,-,-,Western Athletic,-2999 - UNLV Rebels,-2870 - Grand Canyon Lopes,Western Athletic,Western Athletic,2,video:  others: 
+5195667,11/04/21,16:00:00,Fixture,-,-,Big South (W),-7753 - UNC Asheville Bulldogs,-7751 - Gardner-Webb Bulldogs,Big South (W),Big South (W),0,video:  others: 
+5202016,11/04/21,16:00:00,Fixture,-,-,Atlantic 10 (W),-7676 - St. Bonaventure Bonnies,-7691 - Duquesne Duke,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5216895,11/04/21,16:00:00,Fixture,-,-,Southwestern Athletic (W),-7948 - Grambling Tigers,-7942 - ASU Hornets,Southwestern Athletic (W),Southwestern Athletic (W),0,video:  others: 
+5216909,11/04/21,16:00:00,Fixture,-,-,Big Ten (W),-7761 - Ohio State Buckeyes,-7757 - Rutgers Scarlet Knights,Big Ten (W),Big Ten (W),2,video:  others: 
+5193758,11/04/21,17:00:00,Fixture,-,-,Summit League (W),-7519 - North Dakota State Bison,-7518 - Oral Roberts Golden Eagles University,Summit League (W),Summit League (W),0,video:  others: 
+5193759,11/04/21,17:00:00,Fixture,-,-,Summit League (W),-7522 - WIU Fighting Leathernecks,-7517 - SU State Jackrabbits,Summit League (W),Summit League (W),0,video:  others: 
+5195495,11/04/21,17:00:00,Fixture,-,-,Big East (W),-7736 - Xavier Musketeers,-7730 - DePaul Blue Demons,Big East (W),Big East (W),0,video:  others: 
+5199144,11/04/21,17:00:00,Fixture,-,-,American Athletic (W),-7614 - Cincinnati Bearcats,-7613 - USF Bulls,American Athletic (W),American Athletic (W),0,video:  others: 
+5199145,11/04/21,17:00:00,Fixture,-,-,American Athletic (W),-7609 - UCF Knights,-7616 - Houston Cougars,American Athletic (W),American Athletic (W),0,video:  others: 
+5202017,11/04/21,17:00:00,Fixture,-,-,Atlantic 10 (W),-7686 - Saint Joseph's Hawks,-7696 - La Salle Explorers,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5202019,11/04/21,17:00:00,Fixture,-,-,Atlantic 10 (W),-7690 - George Washington Colonials,-7698 - Davidson Wildcats,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5204400,11/04/21,17:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7701 - Duke Blue Devils,-7905 - Vanderbilt Commodores,Atlantic Coast (W),SEC (W),1,video:  others: 
+5204401,11/04/21,17:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7694 - Rhode Island Rhody,-7707 - Boston College Eagles,Atlantic 10 (W),Atlantic Coast (W),0,video:  others: 
+5205612,11/04/21,17:00:00,Fixture,-,-,Mid-American,-3001 - Bowling Green State Falcons,-2377 - Akron Zips,Mid-American,Mid-American,2,video:  others: 
+5209890,11/04/21,17:00:00,Fixture,-,-,Mid-American (W),-7829 - Miami Redhawks,-7661 - Akron Zips,Mid-American (W),Mid-American (W),0,video:  others: 
+5209891,11/04/21,17:00:00,Fixture,-,-,Mid-American (W),-7826 - Central Michigan Chippewas,-7830 - Northern Illinois Huskies,Mid-American (W),Mid-American (W),0,video:  others: 
+5209892,11/04/21,17:00:00,Fixture,-,-,Mid-American (W),-7831 - Ohio Bobcats,-7825 - Buffalo Bulls,Mid-American (W),Mid-American (W),0,video:  others: 
+5209894,11/04/21,17:00:00,Postponed,-,-,Mid-American (W),-7828 - Kent State Golden Flashes,-7824 - Bowling Green Falcons,Mid-American (W),Mid-American (W),0,video:  others: 
+5217636,11/04/21,17:00:00,Fixture,-,-,Horizon League,-2761 - Oakland Golden Grizzlies,-2766 - UIC Flames,Horizon League,Horizon League,0,video:  others: 
+5217639,11/04/21,17:00:00,Fixture,-,-,Horizon League (W),-7803 - NKU Norse,-7809 - UIC Flames,Horizon League (W),Horizon League (W),0,video:  others: 
+5218752,11/04/21,17:00:00,Fixture,-,-,Missouri Valley (W),-12303 - Valparaiso Crusaders,-7843 - Evansville Purple Aces,Missouri Valley (W),Missouri Valley (W),1,video:  others: 
+5193754,11/04/21,18:00:00,Fixture,-,-,Summit League (W),-7522 - WIU Fighting Leathernecks,-7517 - SU State Jackrabbits,Summit League (W),Summit League (W),0,video:  others: 
+5193755,11/04/21,18:00:00,Fixture,-,-,Summit League (W),-7963 - UMKC Kangaroos,-7520 - Denver Pioneers,Summit League (W),Summit League (W),0,video:  others: 
+5194817,11/04/21,18:00:00,Fixture,-,-,Big South,-2435 - UNC Asheville Bulldogs,-2431 - Gardner-Webb Bulldogs,Big South,Big South,0,video:  others: 
+5195498,11/04/21,18:00:00,Fixture,-,-,Big East (W),-7666 - St John's Red Storm,-7731 - Providence Friars,Big East (W),Big East (W),0,video:  others: 
+5201840,11/04/21,18:00:00,Cancelled,-,-,Patriot League (W),-7894 - Lafayette Leopards,-12737 - Army West Point Black Knights,Patriot League (W),Patriot League (W),0,video:  others: 
+5202018,11/04/21,18:00:00,Fixture,-,-,Atlantic 10 (W),-7687 - Saint Louis Billikens,-7692 - Dayton Flyers,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5204402,11/04/21,18:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7719 - Oklahoma State Cowgirls,-7704 - Notre Dame Fighting Irish,Big 12 (W),Atlantic Coast (W),0,video:  others: 
+5205629,11/04/21,18:00:00,Fixture,-,-,Mid-American,-2793 - Northern Illinois Huskies,-2374 - West Virginia Mountaineers,Mid-American,Mid-American,2,video:  others: 
+5209895,11/04/21,18:00:00,Fixture,-,-,Mid-American (W),-7823 - Ball State Cardinals,-7827 - Eastern Michigan Eagles,Mid-American (W),Mid-American (W),0,video:  others: 
+5210641,11/04/21,18:00:00,Fixture,-,-,Big Sky (W),-7743 - Weber State Wildcats,-7741 - Northern Colorado Bears,Big Sky (W),Big Sky (W),0,video:  others: 
+5210642,11/04/21,18:00:00,Fixture,-,-,Big Sky (W),-7746 - Southern Utah Thunderbirds,-7738 - Idaho State Bengals,Big Sky (W),Big Sky (W),0,video:  others: 
+5210643,11/04/21,18:00:00,Fixture,-,-,Big Sky (W),-7740 - Montana Griz,-7737 - Eastern Washington Eagles,Big Sky (W),Big Sky (W),0,video:  others: 
+5216910,11/04/21,18:00:00,Fixture,-,-,Big Ten (W),-7760 - Penn State Nittany Lion,-7764 - Indiana Hoosiers,Big Ten (W),Big Ten (W),2,video:  others: 
+5216911,11/04/21,18:00:00,Fixture,-,-,Big Ten (W),-7766 - Iowa Hawkeyes,-7756 - Minnesota Golden Gophers,Big Ten (W),Big Ten (W),2,video:  others: 
+5218508,11/04/21,18:00:00,Fixture,-,-,Metro Atlantic Athletic Conference,-2967 - Iona Gales,-2997 - Rider Broncs,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,1,video:  others: 
+5218509,11/04/21,18:00:00,Fixture,-,-,Metro Atlantic Athletic Conference,-2982 - Monmouth Hawks,27698 - Niagara Purple Eagles,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,2,video:  others: 
+5193753,11/04/21,19:00:00,Fixture,-,-,Summit League (W),-7747 - North Dakota Fighting Hawks,-7516 - SD Coyotes,Summit League (W),Summit League (W),0,video:  others: 
+5194489,11/04/21,19:00:00,Postponed,-,-,West Coast,-2953 - Gonzaga Bulldogs,-2902 - Pacific Tigers,West Coast,West Coast,1,video:  others: 
+5195854,11/04/21,19:00:00,Fixture,-,-,Mountain West (W),-7847 - Utah St. Aggies,-7849 - Wyoming Cowboys,Mountain West (W),Mountain West (W),0,video:  others: 
+5195855,11/04/21,19:00:00,Fixture,-,-,Mountain West (W),-7852 - New Mexico Lobos,-7857 - CSU Rams,Mountain West (W),Mountain West (W),0,video:  others: 
+5195857,11/04/21,19:00:00,Fixture,-,-,Mountain West (W),-7855 - Boise St. Broncos,-7845 - UNLV Rebels,Mountain West (W),Mountain West (W),0,video:  others: 
+5199146,11/04/21,19:00:00,Fixture,-,-,American Athletic (W),-7611 - Memphis Tigers,-7618 - ECU Pirates,American Athletic (W),American Athletic (W),0,video:  others: 
+5199147,11/04/21,19:00:00,Fixture,-,-,American Athletic (W),-7615 - Tulsa Hurricane,-7612 - SMU Mustangs,American Athletic (W),American Athletic (W),0,video:  others: 
+5199681,11/04/21,19:00:00,Fixture,-,-,Pacific 12 (W),-7881 - Colorado Buffs,-7888 - ASU Sun Devils,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199733,11/04/21,19:00:00,Fixture,-,-,Pacific 12 (W),-7880 - Utah Utes,-7884 - Arizona Wildcats,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5201849,11/04/21,19:00:00,Cancelled,-,-,Patriot League (W),-7889 - Bucknell Bison,-7895 - Loyola Greyhounds,Patriot League (W),Patriot League (W),0,video:  others: 
+5202021,11/04/21,19:00:00,Fixture,-,-,Atlantic 10 (W),-7697 - UMass Minutemen,-7689 - Fordham Rams,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5209893,11/04/21,19:00:00,Fixture,-,-,Mid-American (W),-7832 - Toledo Rockets,-7833 - Western Michigan Broncos,Mid-American (W),Mid-American (W),0,video:  others: 
+5217640,11/04/21,19:00:00,Fixture,-,-,Horizon League (W),-7663 - Milwaukee Panthers,-7668 - IUPUI Jaguars,Horizon League (W),Horizon League (W),0,video:  others: 
+5218510,11/04/21,19:00:00,Fixture,-,-,Metro Atlantic Athletic Conference,-3006 - Siena Saints,-6750 - Quinnipiac Bobcats,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,2,video:  others: 
+5218511,11/04/21,19:00:00,Fixture,-,-,Metro Atlantic Athletic Conference,-2996 - Fairfield Stags,-3010 - Saint Peter's Peacocks,Metro Atlantic Athletic Conference,Metro Atlantic Athletic Conference,1,video:  others: 
+5210644,11/04/21,19:30:00,Fixture,-,-,Big Sky (W),-7744 - Portland State Vikings,-7742 - Sacramento State Hornets,Big Sky (W),Big Sky (W),0,video:  others: 
+5194488,11/04/21,20:00:00,Fixture,-,-,West Coast,-6752 - San Francisco Dons,-2751 - Portland Pilots,West Coast,West Coast,0,video:  others: 
+5194490,11/04/21,20:00:00,Fixture,-,-,West Coast,-4203 - Saint Mary's Gaels,-2752 - Loyola Marymount LMU Lions,West Coast,West Coast,1,video:  others: 
+5194491,11/04/21,20:00:00,Fixture,-,-,West Coast,-2362 - San Diego Toreros,-2842 - Santa Clara Broncos,West Coast,West Coast,0,video:  others: 
+5195856,11/04/21,20:00:00,Fixture,-,-,Mountain West (W),-7856 - Nevada WolfPack,-7846 - San Diego St. Aztecs,Mountain West (W),Mountain West (W),0,video:  others: 
+5199734,11/04/21,20:00:00,Fixture,-,-,Pacific 12 (W),-7877 - Stanford Cardinal,-7879 - UCLA Bruins,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199736,11/04/21,20:00:00,Fixture,-,-,Pacific 12 (W),-7883 - Washington State Cougars,-7885 - Oregon Ducks,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199735,11/04/21,20:45:00,Fixture,-,-,Pacific 12 (W),-7882 - California Golden Bears,-7878 - USC Trojans,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5216912,11/04/21,21:00:00,Fixture,-,-,Big Ten (W),-7762 - Wisconsin Badgers,-7759 - Northwestern Wildcats,Big Ten (W),Big Ten (W),2,video:  others: 
+5217635,11/04/21,21:00:00,Fixture,-,-,Horizon League,-2899 - NKU Norse,-2762 - Milwaukee Panthers,Horizon League,Horizon League,0,video:  others: 
+5197660,11/04/21,22:00:00,Fixture,-,-,NCAA Non-conference Men matches,-2971 - Charleston Cougars,-2425 - Coastal Carolina Chanticleers,Colonial Athletic Association,Sun Belt,1,video:  others: 
+5218753,11/04/21,22:00:00,Fixture,-,-,Missouri Valley (W),-7839 - Illinois St. Red Birds,-7842 - UNI Panthers,Missouri Valley (W),Missouri Valley (W),0,video:  others: 
+5195211,11/04/21,23:00:00,Fixture,-,-,Atlantic Coast,-2322 - Duke Blue Devils University,-2748 - North Carolina Heels University,Atlantic Coast,Atlantic Coast,2,video:  others: 
+5202020,11/04/21,23:00:00,Fixture,-,-,Atlantic 10 (W),-7695 - VCU Rams,-7688 - George Mason Patriots,Atlantic 10 (W),Atlantic 10 (W),0,video:  others: 
+5199737,12/04/21,0:00:00,Fixture,-,-,Pacific 12 (W),-7887 - Washington Huskies,-7886 - Oregon State Beavers,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5218285,12/04/21,12:00:00,Fixture,-,-,Metro Atlantic Athletic Conference (W),0 - ,0 - ,,,0,video:  others: 
+5218286,12/04/21,12:00:00,Fixture,-,-,Metro Atlantic Athletic Conference (W),0 - ,0 - ,,,0,video:  others: 
+5201478,12/04/21,17:00:00,Fixture,-,-,Northeast,-6751 - St. Francis Brooklyn Terriers,-2891 - LIU Sharks,Northeast,Northeast,2,video:  others: 
+5201475,12/04/21,18:00:00,Fixture,-,-,Northeast,-2968 - CCSU Blue Devils,-3024 - Sacred Heart Pioneers,Northeast,Northeast,2,video:  others: 
+5201477,12/04/21,21:00:00,Fixture,-,-,Northeast,-7512 - Fairleigh Dickinson Knights,-12630 - Mount St. Mary's Mountaineers,Northeast,Northeast,2,video:  others: 
+5201476,12/04/21,22:00:00,Fixture,-,-,Northeast,-2771 - Bryant Bulldogs,-12629 - Merrimack Warriors,Northeast,Northeast,2,video:  others: 
+5218471,13/04/21,19:00:00,Fixture,-,-,Missouri Valley,-2895 - Drake Bulldogs,-2885 - Loyola Chicago Ramblers,Missouri Valley,Missouri Valley,2,video:  others: 
+5201447,13/04/21,20:00:00,Fixture,-,-,Northeast (W),-12732 - St. Francis Brooklyn Terriers,-7649 - SHU Pioneers,Northeast (W),Northeast (W),0,video:  others: 
+5201448,13/04/21,20:00:00,Fixture,-,-,Northeast (W),-7644 - CCSU Blue Devils,-7647 - Mount St. Mary's,Northeast (W),Northeast (W),0,video:  others: 
+5201449,13/04/21,20:00:00,Fixture,-,-,Northeast (W),-7646 - LIU Sharks,-7651 - Wagner Seahawks,Northeast (W),Northeast (W),0,video:  others: 
+5201450,13/04/21,20:00:00,Fixture,-,-,Northeast (W),-7643 - Bryant Bulldogs,-7645 - Fairleigh Dickinson Knights,Northeast (W),Northeast (W),0,video:  others: 
+5218472,13/04/21,23:00:00,Fixture,-,-,Missouri Valley,-2780 - Missouri State Bears,-2376 - Bradley Braves,Missouri Valley,Missouri Valley,2,video:  others: 
+5217646,14/04/21,12:00:00,Fixture,-,-,Big Ten,0 - ,0 - ,,,0,video:  others: 
+5217647,14/04/21,12:00:00,Fixture,-,-,Big Ten,0 - ,0 - ,,,0,video:  others: 
+5218512,14/04/21,12:00:00,Fixture,-,-,Metro Atlantic Athletic Conference,0 - ,0 - ,,,0,video:  others: 
+5218513,14/04/21,12:00:00,Fixture,-,-,Metro Atlantic Athletic Conference,0 - ,0 - ,,,0,video:  others: 
+5218754,14/04/21,12:00:00,Fixture,-,-,Missouri Valley (W),0 - ,0 - ,,,0,video:  others: 
+5218755,14/04/21,12:00:00,Fixture,-,-,Missouri Valley (W),0 - ,0 - ,,,0,video:  others: 
+5201767,14/04/21,17:00:00,Fixture,-,-,Conference USA,-2371 - Charlotte 49ers,27625 - FIU Panthers,Conference USA,Conference USA,2,video:  others: 
+5216913,15/04/21,12:00:00,Fixture,-,-,Big Ten (W),0 - ,0 - ,,,0,video:  others: 
+5216914,15/04/21,12:00:00,Fixture,-,-,Big Ten (W),0 - ,0 - ,,,0,video:  others: 
+5217631,15/04/21,12:00:00,Fixture,-,-,ASUN,0 - ,0 - ,,,0,video:  others: 
+5217632,15/04/21,12:00:00,Fixture,-,-,ASUN,0 - ,0 - ,,,0,video:  others: 
+5216882,15/04/21,13:00:00,Fixture,-,-,ASUN (W),0 - ,0 - ,,,0,video:  others: 
+5216883,15/04/21,13:00:00,Fixture,-,-,ASUN (W),0 - ,0 - ,,,0,video:  others: 
+5193789,16/04/21,1:00:00,Fixture,-,-,Summit League,-2959 - Denver Pioneers,-3015 - Nebraska Omaha Mavericks,Summit League,Summit League,2,video:  others: 
+5216888,16/04/21,12:00:00,Fixture,-,-,Southern,0 - ,0 - ,,,0,video:  others: 
+5216898,16/04/21,12:00:00,Fixture,-,-,Southern (W),0 - ,0 - ,,,0,video:  others: 
+5218287,16/04/21,12:00:00,Fixture,-,-,Metro Atlantic Athletic Conference (W),0 - ,0 - ,,,0,video:  others: 
+5199682,16/04/21,20:00:00,Fixture,-,-,Pacific 12 (W),-7883 - Washington State Cougars,-7887 - Washington Huskies,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199738,16/04/21,21:00:00,Fixture,-,-,Pacific 12 (W),-7881 - Colorado Buffs,-7880 - Utah Utes,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199739,16/04/21,22:00:00,Fixture,-,-,Pacific 12 (W),-7882 - California Golden Bears,-7877 - Stanford Cardinal,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199740,16/04/21,23:00:00,Fixture,-,-,Pacific 12 (W),-7878 - USC Trojans,-7879 - UCLA Bruins,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5204403,16/04/21,23:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7901 - Auburn Tigers,-7706 - Virginia Tech Hokies,SEC (W),Atlantic Coast (W),0,video:  others: 
+5199741,17/04/21,2:00:00,Fixture,-,-,Pacific 12 (W),-7888 - ASU Sun Devils,-7884 - Arizona Wildcats,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5199742,17/04/21,2:00:00,Fixture,-,-,Pacific 12 (W),-7885 - Oregon Ducks,-7886 - Oregon State Beavers,Pacific 12 (W),Pacific 12 (W),0,video:  others: 
+5217633,17/04/21,12:00:00,Fixture,-,-,ASUN,0 - ,0 - ,,,0,video:  others: 
+5217637,17/04/21,12:00:00,Fixture,-,-,Horizon League,0 - ,0 - ,,,0,video:  others: 
+5217641,17/04/21,12:00:00,Fixture,-,-,Horizon League (W),0 - ,0 - ,,,0,video:  others: 
+5217648,17/04/21,12:00:00,Fixture,-,-,Big Ten,0 - ,0 - ,,,0,video:  others: 
+5218473,17/04/21,12:00:00,Fixture,-,-,Missouri Valley,0 - ,0 - ,,,0,video:  others: 
+5218514,17/04/21,12:00:00,Fixture,-,-,Metro Atlantic Athletic Conference,0 - ,0 - ,,,0,video:  others: 
+5216884,17/04/21,13:00:00,Fixture,-,-,ASUN (W),0 - ,0 - ,,,0,video:  others: 
+5201778,17/04/21,16:00:00,Fixture,-,-,Conference USA,-2827 - FAU Owls,27526 - UAB Blazers,Conference USA,Conference USA,2,video:  others: 
+5204408,17/04/21,16:00:00,Fixture,-,-,Atlantic Coast (W),-7710 - Louisville Cardinals,-7709 - Wake Forest Demon Deacon,Atlantic Coast (W),Atlantic Coast (W),0,video:  others: 
+5201779,17/04/21,17:00:00,Fixture,-,-,Conference USA,27556 - South Carolina Gamecocks,-2310 - Kentucky Wildcats,Conference USA,Conference USA,2,video:  others: 
+5201780,17/04/21,17:00:00,Fixture,-,-,Conference USA,27626 - Old Dominion Monarchs,27625 - FIU Panthers,Conference USA,Conference USA,2,video:  others: 
+5201781,17/04/21,17:00:00,Fixture,-,-,Conference USA,-2811 - Marshall Thundering Herd,-2371 - Charlotte 49ers,Conference USA,Conference USA,1,video:  others: 
+5204409,17/04/21,17:00:00,Fixture,-,-,Atlantic Coast (W),-7705 - NC State Wolfpack,-7707 - Boston College Eagles,Atlantic Coast (W),Atlantic Coast (W),0,video:  others: 
+5193816,17/04/21,18:00:00,Fixture,-,-,Summit League,-3027 - Eastern Illinois Panthers,-3007 - WIU Fighting Leathernecks,Summit League,Summit League,2,video:  others: 
+5199604,17/04/21,19:30:00,Fixture,-,-,Pacific 12,-2869 - Stanford Cardinal,-2863 - Washington Huskies,Pacific 12,Pacific 12,1,video:  others: 
+5194467,17/04/21,20:00:00,Fixture,-,-,West Coast,-2751 - Portland Pilots,-4203 - Saint Mary's Gaels,West Coast,West Coast,0,video:  others: 
+5199587,17/04/21,20:00:00,Fixture,-,-,Pacific 12,-2354 - San Diego State Aztecs,-2355 - Oregon State Beavers,Pacific 12,Pacific 12,1,video:  others: 
+5194584,17/04/21,21:00:00,Fixture,-,-,West Coast (W),-7524 - BYU Cougars,-7529 - Portland Pilots University,West Coast (W),West Coast (W),0,video:  others: 
+5194617,17/04/21,21:00:00,Fixture,-,-,West Coast (W),-7531 - Gonzaga Bulldogs University,-7526 - Pepperdine Waves,West Coast (W),West Coast (W),0,video:  others: 
+5194619,17/04/21,21:00:00,Fixture,-,-,West Coast (W),-7528 - San Diego Toreros University,-7525 - Santa Clara Broncos University,West Coast (W),West Coast (W),0,video:  others: 
+5194620,17/04/21,21:00:00,Fixture,-,-,West Coast (W),-7532 - Saint Mary's Gaels University California,-7527 - LMU Lions,West Coast (W),West Coast (W),0,video:  others: 
+5199605,17/04/21,21:30:00,Fixture,-,-,Pacific 12,-2318 - UCLA Bruins,-2353 - Berkeley Golden Bears,Pacific 12,Pacific 12,0,video:  others: 
+5204404,18/04/21,1:00:00,Fixture,-,-,NCAA Non-conference Women matches,-7716 - TCU Frogs,-7704 - Notre Dame Fighting Irish,Big 12 (W),Atlantic Coast (W),0,video:  others: 
+5216915,18/04/21,12:00:00,Fixture,-,-,Big Ten (W),0 - ,0 - ,,,0,video:  others: 
+5218756,18/04/21,12:00:00,Fixture,-,-,Missouri Valley (W),0 - ,0 - ,,,0,video:  others: 
+5205630,18/04/21,16:00:00,Fixture,-,-,Mid-American,-2855 - Western Michigan Broncos,-2377 - Akron Zips,Mid-American,Mid-American,2,video:  others: 
+5205631,18/04/21,16:00:00,Fixture,-,-,Mid-American,-2374 - West Virginia Mountaineers,-2979 - SIU Edwardsville Coguars,Mid-American,Mid-American,2,video:  others: 
+5205613,18/04/21,20:00:00,Fixture,-,-,Mid-American,-3001 - Bowling Green State Falcons,-2793 - Northern Illinois Huskies,Mid-American,Mid-American,2,video:  others: 
